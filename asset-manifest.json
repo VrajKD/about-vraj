@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/about-vraj/static/css/main.e8fd4a54.chunk.css",
-    "main.js": "/about-vraj/static/js/main.b8ece5d2.chunk.js",
-    "main.js.map": "/about-vraj/static/js/main.b8ece5d2.chunk.js.map",
+    "main.js": "/about-vraj/static/js/main.850acf61.chunk.js",
+    "main.js.map": "/about-vraj/static/js/main.850acf61.chunk.js.map",
     "runtime-main.js": "/about-vraj/static/js/runtime-main.b0f2303d.js",
     "runtime-main.js.map": "/about-vraj/static/js/runtime-main.b0f2303d.js.map",
     "static/css/2.eb45ad44.chunk.css": "/about-vraj/static/css/2.eb45ad44.chunk.css",
     "static/js/2.4d99cd03.chunk.js": "/about-vraj/static/js/2.4d99cd03.chunk.js",
     "static/js/2.4d99cd03.chunk.js.map": "/about-vraj/static/js/2.4d99cd03.chunk.js.map",
     "index.html": "/about-vraj/index.html",
-    "precache-manifest.d055d71d56d409c4012d736ba729ddd4.js": "/about-vraj/precache-manifest.d055d71d56d409c4012d736ba729ddd4.js",
+    "precache-manifest.220d94f08300f00496936bb7b8fa70ca.js": "/about-vraj/precache-manifest.220d94f08300f00496936bb7b8fa70ca.js",
     "service-worker.js": "/about-vraj/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/about-vraj/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.e8fd4a54.chunk.css.map": "/about-vraj/static/css/main.e8fd4a54.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.4d99cd03.chunk.js",
     "static/css/main.e8fd4a54.chunk.css",
-    "static/js/main.b8ece5d2.chunk.js"
+    "static/js/main.850acf61.chunk.js"
   ]
 }
