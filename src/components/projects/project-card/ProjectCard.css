@@ -15,13 +15,14 @@
     /* border-radius: 10%; */
     padding:8% 6%;
     text-align: center;
-    width: 110%;
+    width: 120%;
     letter-spacing: 0.2em;
 }
 
 .git{
 border-color: purple;
 color: darkmagenta;
+transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .git:hover{
@@ -37,6 +38,7 @@ color: whitesmoke;
 .proj{
     border-color: firebrick;
 color: firebrick;
+transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .button-icon{
