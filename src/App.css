@@ -46,7 +46,7 @@ html {
   html { font-size: 75%; }
 }
 
-@media (min-width: 600px) and (max-width: 1000px) and (min-height: 300px) and (max-height: 500px)  {
+@media (min-device-width: 300px) and (max-device-width: 600px) and (orientation:landscape)  {
   html { font-size: 45%; }
 }
 @media (orientation: portrait){
