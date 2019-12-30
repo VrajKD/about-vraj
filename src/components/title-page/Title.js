@@ -9,7 +9,7 @@ class Title extends React.Component {
         return (
             <div className="title-container shadow-5">
                 <Fade left><div className="name-tag">Hi, I am Vraj Dugar</div><br />
-                    <div className="type-tag"><ReactTypingEffect text={text} staticText="I am a " speed="100" eraseDelay="1000"/></div></Fade>
+                    <div className="type-tag"><ReactTypingEffect text={text} staticText="I am a " speed="100" eraseDelay="500"/></div></Fade>
                     {/*  */}
             </div>
         )
