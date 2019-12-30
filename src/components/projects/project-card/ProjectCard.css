@@ -1,0 +1,95 @@
+.project-card{
+    /* margin-bottom:2.5%;
+    margin-top: 2.5%; */
+    width: 100%;
+    display: flex;
+}
+
+.card-text{
+    width:80%;
+}
+
+.card-button{
+    text-decoration: none;
+    border: 1px solid black;
+    /* border-radius: 10%; */
+    padding:8% 6%;
+    text-align: center;
+    width: 110%;
+    letter-spacing: 0.2em;
+}
+
+.git{
+border-color: purple;
+color: darkmagenta;
+}
+
+.git:hover{
+    background-color: purple;
+color: whitesmoke;
+}
+
+.proj:hover{
+    background-color: firebrick;
+color: whitesmoke;
+}
+
+.proj{
+    border-color: firebrick;
+color: firebrick;
+}
+
+.button-icon{
+    margin: 0 5%;
+}
+
+.card-buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.skill-item{
+    font-size: 0.6em;
+    padding:0.4% 1.6%;
+    letter-spacing: 0.3em;
+    margin:0 2.2% 0 0;
+    color: lightgray;
+    background-color: darkslateblue;
+    text-transform: uppercase;
+    font-weight: 500;
+    border:1px solid darkslateblue;   
+}
+
+.skill-item:hover{
+    color:darkslateblue;
+    background-color: lightgray;
+}
+.skill-list{
+    margin-bottom: 2.3%;
+}
+
+.project-title{
+    text-transform: uppercase;
+    font-size: 1.4em;
+    margin-bottom: 2%;
+    font-weight: 700;
+}
+.project-subtitle{
+    font-size: 0.7em;
+    text-transform: uppercase;
+    margin-bottom: 2%;
+    font-weight: 400;
+}
+
+.project-desc{
+    margin:0 1%;
+    font-size: 0.8em;
+}
+.project-desc li{
+    /* padding: 4px; */
+    letter-spacing: 0.1em;
+    line-height: 1.9;
+}
+
+

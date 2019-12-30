@@ -1,0 +1,31 @@
+
+.projects-container{
+    height:90vh;
+    width: 90vw;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    margin: 2.5% 0;
+    padding: 0% 5% 0% 0%;
+    
+}
+.project-section-title{
+    width:15%;
+    height: 100%;
+    padding:3% 6%;
+    text-transform: uppercase;
+    font-size: 3.6rem;
+    color: white;
+    font-weight: 800;
+    word-wrap: break-word;
+    line-height: 1.27em;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.project-cards{
+    padding-left: 5%;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-evenly;
+}

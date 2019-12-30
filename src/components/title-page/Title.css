@@ -1,0 +1,19 @@
+.title-container{
+    height:80vh;
+    width: 80vw;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 0 2.5% 0;
+}
+
+.name-tag{
+    font-size: 5em;
+    margin-bottom: 1%;
+}
+
+.type-tag{
+    font-size: 1.7em;
+}
