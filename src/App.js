@@ -11,10 +11,13 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <Title />
-        <Projects />
-        <About />
-        <EndPage />
+        <div className="portrait-warning">Please switch to landscape mode </div>
+        <div className="entire-project">
+          <Title />
+          <Projects />
+          <About />
+          <EndPage />
+        </div>
       </div>
     )
   }
