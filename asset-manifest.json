@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/about-vraj/static/css/main.e4e0428c.chunk.css",
+    "main.css": "/about-vraj/static/css/main.4d966cdd.chunk.css",
     "main.js": "/about-vraj/static/js/main.b8ece5d2.chunk.js",
     "main.js.map": "/about-vraj/static/js/main.b8ece5d2.chunk.js.map",
     "runtime-main.js": "/about-vraj/static/js/runtime-main.b0f2303d.js",
@@ -9,10 +9,10 @@
     "static/js/2.4d99cd03.chunk.js": "/about-vraj/static/js/2.4d99cd03.chunk.js",
     "static/js/2.4d99cd03.chunk.js.map": "/about-vraj/static/js/2.4d99cd03.chunk.js.map",
     "index.html": "/about-vraj/index.html",
-    "precache-manifest.099c8865f34df27fee785801bc94a6bb.js": "/about-vraj/precache-manifest.099c8865f34df27fee785801bc94a6bb.js",
+    "precache-manifest.39836503cd887c5558ce2edace27cb50.js": "/about-vraj/precache-manifest.39836503cd887c5558ce2edace27cb50.js",
     "service-worker.js": "/about-vraj/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/about-vraj/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.e4e0428c.chunk.css.map": "/about-vraj/static/css/main.e4e0428c.chunk.css.map",
+    "static/css/main.4d966cdd.chunk.css.map": "/about-vraj/static/css/main.4d966cdd.chunk.css.map",
     "static/js/2.4d99cd03.chunk.js.LICENSE": "/about-vraj/static/js/2.4d99cd03.chunk.js.LICENSE",
     "static/media/EndPage.css": "/about-vraj/static/media/title-background.8d5c019a.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.b0f2303d.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.4d99cd03.chunk.js",
-    "static/css/main.e4e0428c.chunk.css",
+    "static/css/main.4d966cdd.chunk.css",
     "static/js/main.b8ece5d2.chunk.js"
   ]
 }
