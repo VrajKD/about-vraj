@@ -11,7 +11,7 @@ class About extends React.Component {
                     <div className="about-content">
                         <div className="about-personal tc">
                             <div className="personal-title"><span className="bb pb2 b--light-silver">THIS IS ME</span></div>
-                            <div className="personal-intro">I am a seasoned graphic designer with over 10 years of experience working in the advertising industry. My work focuses on UX, UI, and typography.I am a seasoned graphic designer with over 10 years of experience working in the advertising industry. My work focuses on UX, UI, and typography. My work focuses on UX, UI, and typography.</div>
+                            <div className="personal-intro">(THIS IS COPIED TEXT )Hard-working web developer with a flair for creating elegant solutions in the least amount of time. Developed an ecommerce webapp, customer web portal, documentary launch website, and donations webapp for a local charity. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons.</div>
                             <div className="personal-title"><span className="bb pb2 b--light-silver">EDUCATION</span></div>
                             <div className="education">
                                 - - VELLORE INSTITUTE OF TECHNOLOGY, VELLORE - -
@@ -33,7 +33,7 @@ class About extends React.Component {
                                 <p className="about-skill-item">NodeJS</p>
                                 <p className="about-skill-item">MongoDB/PostgresSQL</p>
                                 <p className="about-skill-item">Firebase ( FireStore )</p>
-                                <p className="about-skill-item">Bootstrap</p>
+                                <p className="about-skill-item">Bootstrap / SCSS</p>
                                 <p className="about-skill-item">Material UI</p>
                             </div>
                         </div>

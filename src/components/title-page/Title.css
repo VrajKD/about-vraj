@@ -18,8 +18,8 @@
     font-size: 1.7em;
 }
 
-img{
-    width:12%;
-    height: 18%;
-    margin-bottom: 3%;
+.title-icon{
+    font-size: 6em;
+    color: steelblue;
+    margin-bottom: 30%;
 }

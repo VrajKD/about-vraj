@@ -7,35 +7,29 @@ import './ProjectCard.css'
 
 class ProjectCard extends React.Component {
     render() {
+        const { title, subtitle, skills, points, gitLink, projLink } = this.props.data;
         return (
             <div className="project-card">
                 <div className="card-text">
                     <div className="skill-list">
-                        <span className="skill-item">
-                            Skill 1
-                    </span>
-                        <span className="skill-item">
-                            Skill 1
-                    </span>
-                        <span className="skill-item">
-                            Skill 1
-                    </span>
+                        {skills.map(skill => (<span className="skill-item">
+                            {skill}
+                        </span>))}
                     </div>
 
 
-                    <div className="project-title">CLOTHING E-COMMERCE STORE</div>
-                    <div className="project-subtitle">Yelworks Advertising Co.</div>
+                    <div className="project-title">{title}</div>
+                    <div className="project-subtitle">{subtitle}</div>
                     <div className="project-desc">
                         <ul>
-                            <li>An E-commerce website made with ReactJS complete with payments and a cart system</li>
-                            <li>Libraries/Technologies : Redux, Firebase, Stripe, SCSS</li>
-                            {/* <li>An E-commerce website made with ReactJS complete with payments and a cart system</li> */}
+                            {points.map(point => (<li>{point}</li>))}
                         </ul>
                     </div>
                 </div>
                 <div className="card-buttons">
-                    <a href="www.github.com/VrajKD" className="card-button br3 git"><FontAwesomeIcon icon={faGithub} className="button-icon" />LINK TO REPO</a>
-                    <a href="www.github.com/VrajKD" className="card-button br3 proj"><FontAwesomeIcon icon={faGithub} className="button-icon" />VIEW PROJECT</a>
+
+                    <a href={gitLink} className="card-button br3 git" target="_blank"><FontAwesomeIcon icon={faGithub} className="button-icon" />LINK TO REPO</a>
+                    <a href={projLink} className="card-button br3 proj" target="_blank"><FontAwesomeIcon icon={faGithub} className="button-icon" />VIEW PROJECT</a>
                 </div>
             </div>
         )

@@ -3,14 +3,14 @@ import "./EndPage.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import { faUserSecret, faPaperPlane, faPhoneAlt } from '@fortawesome/free-solid-svg-icons'
-import ZoomInLeft  from 'react-reveal/Zoom'
+import ZoomInLeft from 'react-reveal/Zoom'
 
 class EndPage extends React.Component {
     render() {
         return (
             <ZoomInLeft>
                 <div className="end-container">
-                    <a href="www.github.com/VrajKD" className="end-git-button">
+                    <a href="https://www.github.com/VrajKD" target="_blank" className="end-git-button">
                         <FontAwesomeIcon icon={faGithub} /> LINK TO GITHUB PROFILE
                 </a>
                     <div className="end-item">
