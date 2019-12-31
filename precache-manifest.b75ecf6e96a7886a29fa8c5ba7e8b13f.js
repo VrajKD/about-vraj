@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5575cf81cab52c58f97360e4dff39be7",
+    "revision": "af65358e9e20808fdae624a915c8d61b",
     "url": "/about-vraj/index.html"
   },
   {
-    "revision": "7149242c86fded964aee",
+    "revision": "6e20a3997425307b493b",
     "url": "/about-vraj/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "198d0d3477f7bc2da18c",
-    "url": "/about-vraj/static/css/main.f7cf36d6.chunk.css"
+    "revision": "a57f47425864d8490465",
+    "url": "/about-vraj/static/css/main.2bfda752.chunk.css"
   },
   {
-    "revision": "7149242c86fded964aee",
-    "url": "/about-vraj/static/js/2.4d99cd03.chunk.js"
+    "revision": "6e20a3997425307b493b",
+    "url": "/about-vraj/static/js/2.8f39d331.chunk.js"
   },
   {
     "revision": "b49fbb4533a106e3140150241f545bef",
-    "url": "/about-vraj/static/js/2.4d99cd03.chunk.js.LICENSE"
+    "url": "/about-vraj/static/js/2.8f39d331.chunk.js.LICENSE"
   },
   {
-    "revision": "198d0d3477f7bc2da18c",
-    "url": "/about-vraj/static/js/main.b8ece5d2.chunk.js"
+    "revision": "a57f47425864d8490465",
+    "url": "/about-vraj/static/js/main.942934d5.chunk.js"
   },
   {
     "revision": "0cdc173af7917b0916b9",
