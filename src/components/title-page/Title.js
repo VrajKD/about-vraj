@@ -12,7 +12,7 @@ class Title extends React.Component {
             <div className="title-container shadow-5">
                 <Fade right><FontAwesomeIcon icon={faUserSecret} className="title-icon" /></Fade>
                 <Fade left><div className="name-tag">Hi, I am Vraj Dugar</div><br />
-                    <div className="type-tag"><ReactTypingEffect text={text} staticText="I am a " speed="100" eraseDelay="500" /></div></Fade>
+                    <div className="type-tag"><ReactTypingEffect text={text} staticText="I am a " speed="100" eraseDelay="100" typingDelay="200" /></div></Fade>
                 {/*  */}
             </div>
         )

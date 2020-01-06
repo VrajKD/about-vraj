@@ -11,7 +11,7 @@ class About extends React.Component {
                     <div className="about-content">
                         <div className="about-personal tc">
                             <div className="personal-title"><span className="bb pb2 b--light-silver">THIS IS ME</span></div>
-                            <div className="personal-intro">(THIS IS COPIED TEXT )Hard-working web developer with a flair for creating elegant solutions in the least amount of time. Developed an ecommerce webapp, customer web portal, documentary launch website, and donations webapp for a local charity. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons.</div>
+                            <div className="personal-intro">Dynamic and detail-oriented Web Developer, pursuing my graduation in Information Technology, with a knack for developing elegant, user-friendly solutions effectively and efficiently debugging website codes. Armed with an extensive understanding of ReactJS and NodeJS.</div>
                             <div className="personal-title"><span className="bb pb2 b--light-silver">EDUCATION</span></div>
                             <div className="education">
                                 - - VELLORE INSTITUTE OF TECHNOLOGY, VELLORE - -
