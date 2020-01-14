@@ -1,7 +1,7 @@
 {
   "name": "about-vraj",
   "version": "0.1.0",
-  "homepage": "http://vrajkd.github.io/about-vraj",
+  "homepage": "http://vrajkd.github.io/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
