@@ -1,0 +1,43 @@
+.work-card {
+  margin-bottom: 3.5%;
+  width: 100%;
+  display: flex;
+}
+
+.work-text {
+  width: 90%;
+  /* word-wrap: normal; */
+}
+.work-head {
+  border-left: 1px grey solid;
+  padding-left: 2em;
+}
+.work-title {
+  text-transform: uppercase;
+  font-size: 1.4em;
+  margin-bottom: 2%;
+  font-weight: 700;
+}
+.work-subtitle {
+  font-size: 0.7em;
+  text-transform: uppercase;
+  margin-bottom: 2%;
+  font-weight: 400;
+  letter-spacing: 0.5em;
+}
+
+.work-desc {
+  padding-left: 2.5em;
+  font-size: 0.8em;
+  word-wrap: break-word;
+}
+.work-desc > ul {
+  list-style-type: none;
+}
+.work-desc li {
+  /* padding: 4px; */
+  letter-spacing: 0.1em;
+
+  word-wrap: break-word;
+  line-height: 1.9;
+}
