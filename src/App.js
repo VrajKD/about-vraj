@@ -10,7 +10,7 @@ import Work from "./components/work/Work";
 class App extends React.Component {
   render() {
     return (
-      <div className="App bgstyle">
+      <div className="App title bgstyle">
         <div id="stars"></div>
         <div className="portrait-warning">Please switch to landscape mode </div>
         <div className="entire-project">

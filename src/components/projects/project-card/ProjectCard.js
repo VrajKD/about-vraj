@@ -34,11 +34,21 @@ class ProjectCard extends React.Component {
           </div>
         </div>
         <div className="card-buttons">
-          <a href={gitLink} className="card-button br3 git" target="_blank">
+          <a
+            href={gitLink}
+            className="card-button br3 git"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <FontAwesomeIcon icon={faGithub} className="button-icon" />
             LINK TO REPO
           </a>
-          <a href={projLink} className="card-button br3 proj" target="_blank">
+          <a
+            href={projLink}
+            className="card-button br3 proj"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <FontAwesomeIcon icon={faGithub} className="button-icon" />
             VIEW PROJECT
           </a>
