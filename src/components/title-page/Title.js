@@ -12,8 +12,7 @@ import {
 class Title extends React.Component {
   render() {
     const text = [
-      "web developer.",
-      "full - stack web developer.",
+      "front - end web developer.",
       "Final year B.Tech student",
       "Cricket and Manchester United fan!",
     ];
